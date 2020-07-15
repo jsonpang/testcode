@@ -1,0 +1,217 @@
+{
+    // 使用 IntelliSense 了解相关属性。 
+    // 悬停以查看现有属性的描述。
+    // 欲了解更多信息，请访问: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Containers",
+            "request": "launch",
+            "mainClass": "Containers",
+            "projectName": "java_13b92471"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - _3sums_demo",
+            "request": "launch",
+            "mainClass": "_3sums_demo",
+            "projectName": "java_13b92471"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - _3sums",
+            "request": "launch",
+            "mainClass": "_3sums",
+            "projectName": "java_13b92471"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch) - Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-HashTableDemo<java_13b92471>",
+            "request": "launch",
+            "mainClass": "HashTableDemo",
+            "projectName": "java_13b92471"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-MapDemo<java_13b92471>",
+            "request": "launch",
+            "mainClass": "MapDemo",
+            "projectName": "java_13b92471"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-MapDemo2<java_13b92471>",
+            "request": "launch",
+            "mainClass": "MapDemo2",
+            "projectName": "java_13b92471"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-MapDemo3<java_13b92471>",
+            "request": "launch",
+            "mainClass": "MapDemo3",
+            "projectName": "java_13b92471"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-PrimitiveTypeTest<java_13b92471>",
+            "request": "launch",
+            "mainClass": "PrimitiveTypeTest",
+            "projectName": "java_13b92471"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Solution<java_13b92471>",
+            "request": "launch",
+            "mainClass": "Solution",
+            "projectName": "java_13b92471"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Solution_2<java_13b92471>",
+            "request": "launch",
+            "mainClass": "Solution_2",
+            "projectName": "java_13b92471"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Test<java_13b92471>",
+            "request": "launch",
+            "mainClass": "Test",
+            "projectName": "java_13b92471"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-VerifiCodeUtil<java_13b92471>",
+            "request": "launch",
+            "mainClass": "VerifiCodeUtil",
+            "projectName": "java_13b92471"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-_2sums<java_13b92471>",
+            "request": "launch",
+            "mainClass": "_2sums",
+            "projectName": "java_13b92471"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-_ListNodedemo<java_13b92471>",
+            "request": "launch",
+            "mainClass": "_ListNodedemo",
+            "projectName": "java_13b92471"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-_break<java_13b92471>",
+            "request": "launch",
+            "mainClass": "_break",
+            "projectName": "java_13b92471"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-_continue<java_13b92471>",
+            "request": "launch",
+            "mainClass": "_continue",
+            "projectName": "java_13b92471"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-_elseif<java_13b92471>",
+            "request": "launch",
+            "mainClass": "_elseif",
+            "projectName": "java_13b92471"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-_for_if<java_13b92471>",
+            "request": "launch",
+            "mainClass": "_for_if",
+            "projectName": "java_13b92471"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-_if<java_13b92471>",
+            "request": "launch",
+            "mainClass": "_if",
+            "projectName": "java_13b92471"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-_ifelse<java_13b92471>",
+            "request": "launch",
+            "mainClass": "_ifelse",
+            "projectName": "java_13b92471"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-_ifif<java_13b92471>",
+            "request": "launch",
+            "mainClass": "_ifif",
+            "projectName": "java_13b92471"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-_map<java_13b92471>",
+            "request": "launch",
+            "mainClass": "_map",
+            "projectName": "java_13b92471"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-_maxArea<java_13b92471>",
+            "request": "launch",
+            "mainClass": "_maxArea",
+            "projectName": "java_13b92471"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-_maxArea2<java_13b92471>",
+            "request": "launch",
+            "mainClass": "_maxArea2",
+            "projectName": "java_13b92471"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-_switch<java_13b92471>",
+            "request": "launch",
+            "mainClass": "_switch",
+            "projectName": "java_13b92471"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-_switch_nocase<java_13b92471>",
+            "request": "launch",
+            "mainClass": "_switch_nocase",
+            "projectName": "java_13b92471"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-climbStairs<java_13b92471>",
+            "request": "launch",
+            "mainClass": "climbStairs",
+            "projectName": "java_13b92471"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-moveZero<java_13b92471>",
+            "request": "launch",
+            "mainClass": "moveZero",
+            "projectName": "java_13b92471"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-xunhuan<java_13b92471>",
+            "request": "launch",
+            "mainClass": "xunhuan",
+            "projectName": "java_13b92471"
+        }
+    ]
+}
