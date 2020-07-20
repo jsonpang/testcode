@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - _rotateArrays",
+            "request": "launch",
+            "mainClass": "_rotateArrays",
+            "projectName": "java_13b92471"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - _removeDuplicates",
+            "request": "launch",
+            "mainClass": "_removeDuplicates",
+            "projectName": "java_13b92471"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - Containers",
             "request": "launch",
             "mainClass": "Containers",
